@@ -1,4 +1,5 @@
 # About-Repo
 This is my second Repo
 <br>
-Author - Arpit singh
+Author - Arpit singh (developer)
+
